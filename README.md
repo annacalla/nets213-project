@@ -8,4 +8,10 @@ The aggregation module is the main component of the third phase. It involves usi
 
 Finally, the main component of writing the research report includes summarizing our findings, presenting data-driven conclusions, and describing implications for future research. This is the most decisive and labor intensive part of the project so it should also be worth 4 points.
 
-Total point value: 17 points
+
+## Part 2 Deliverables 2
+- **Raw data:** data/tweets.csv
+- **Sample input/output for QC:** 
+- **Sample input/output for aggregation:** 
+- **Code for QC:** src/quality-control.py
+- **Code for aggregation:** src/aggregation.py
