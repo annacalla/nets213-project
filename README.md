@@ -1,3 +1,5 @@
+# NETS213 Final Project
+
 The goal of this project is to answer the questions of how well turkers can moderate tweets on Twitter and if their personal political ideology affects their moderation decisions. The project is broken down into four main phases: first gathering data and designing MTurk hits, then running a quality control module, then running the aggregation module and finally writing the research report for the findings. 
 
 The major milestone for the first phase is manually collecting input data of 100+ tweets about COVID-19 and the 2020 election. This section involves a lot of manual and repetitive work so it is worth 4 points. 
